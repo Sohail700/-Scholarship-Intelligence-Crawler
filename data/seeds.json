@@ -1,0 +1,58 @@
+[
+  {
+    "name": "National Scholarship Portal - All Scholarships",
+    "url": "https://scholarships.gov.in/All-Scholarships",
+    "official_domain": "scholarships.gov.in",
+    "provider": "National Scholarship Portal / Government of India",
+    "source_type": "Government",
+    "max_depth": 2
+  },
+  {
+    "name": "HDFC Bank Parivartan ECSS",
+    "url": "https://www.parivartanecss.com/",
+    "official_domain": "parivartanecss.com",
+    "provider": "HDFC Bank",
+    "source_type": "Corporate CSR",
+    "max_depth": 2
+  },
+  {
+    "name": "SBI Foundation Asha Scholarship",
+    "url": "https://www.sbiashascholarship.co.in/",
+    "official_domain": "sbiashascholarship.co.in",
+    "provider": "SBI Foundation",
+    "source_type": "Corporate CSR",
+    "max_depth": 1
+  },
+  {
+    "name": "LIC Golden Jubilee Foundation",
+    "url": "https://licindia.in/en/web/guest/golden-jubilee-foundation",
+    "official_domain": "licindia.in",
+    "provider": "LIC Golden Jubilee Foundation",
+    "source_type": "Corporate / Foundation",
+    "max_depth": 2
+  },
+  {
+    "name": "Amity Scholarships",
+    "url": "https://www.amity.edu/scholarships/",
+    "official_domain": "amity.edu",
+    "provider": "Amity University",
+    "source_type": "University",
+    "max_depth": 1
+  },
+  {
+    "name": "MAHE Scholarships 2026",
+    "url": "https://www.manipal.edu/content/dam/manipal/mu/documents/Admissions/adm2026/mahe_scholarships_2026_v15.pdf",
+    "official_domain": "manipal.edu",
+    "provider": "Manipal Academy of Higher Education",
+    "source_type": "University",
+    "max_depth": 0
+  },
+  {
+    "name": "J N Tata Endowment",
+    "url": "https://jntataendowment.org/",
+    "official_domain": "jntataendowment.org",
+    "provider": "J N Tata Endowment",
+    "source_type": "Foundation / Trust",
+    "max_depth": 1
+  }
+]
